@@ -2,9 +2,7 @@
 #Submission Date: 11/25/2025
 #Project Type: Group
 #Group Members:
-#   - Devin Barrow
-#   - Tara Tammo
-#   - Antoinette Hults
+#DB, AH, TT
 #File Purpose: Create a working and playable wordle game in python
 #Contrubuted to this file: Devin, Tara, Antoinette
 
