@@ -13,5 +13,5 @@ A simple clone of the popular wordle game in created Python.
 
 ##How to Play
 1. Make sure you have Python or Thonny installed
-2. Download the three dependent files (WordleGame.py, WordleFunctions.py, and WORDLIST.py)
+2. Download the three dependent files (WordleGame.py, CS118_Project_Functions.py, and WORDLIST.py)
 3. Run the game
