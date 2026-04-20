@@ -4,7 +4,7 @@
 #Group Members:
 #DB, AH, TT
 #File Purpose: Create a working and playable wordle game in python
-#Contrubuted to this file: Devin, Tara, Antoinette
+#Contrubuted to this file: DB, TT, AH
 
 #Starts by importing necessary materials for game code
 #Imports turtle as t for easy use
