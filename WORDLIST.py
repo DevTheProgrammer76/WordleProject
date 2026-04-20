@@ -1,6 +1,5 @@
 #Project Title: Wordle In Python
 #Course: CS118 Fundementals of Programming
-#Instructor: Dr. O
 #Submission Date: 11/25/2025
 #Project Type: Group
 #Group Members:
